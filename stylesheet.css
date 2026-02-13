@@ -1,0 +1,36 @@
+.navBar{
+    padding: 5.5%;
+    font-family: Helvetica, sans-serif;
+
+}
+body{
+    background-color: #e6d8c5;
+    color:#354024;
+}
+button{
+    background-color: #354024;
+
+    font-size: 28px;
+    color: #e6d8c5;
+    border-radius: 50%;
+    height: 70px;
+    width: 150px;
+    border-color: #868f63;
+    border-width: 5px;
+}
+button:hover{
+    background-color: #868f63;
+    border-color: #354024;
+
+}
+p{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+footer{
+    text-align: center;
+}
+#banner{
+    width: 100vw;
+    height: 100vh;
+}
