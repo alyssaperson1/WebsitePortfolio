@@ -4,14 +4,14 @@
 
 }
 body{
-    background-color: #e6d8c5;
     color:#354024;
+    background-color: #e6d8c5;
 }
 button{
     background-color: #354024;
 
     font-size: 28px;
-    color: #e6d8c5;
+    color: #cfba99;
     border-radius: 50%;
     height: 70px;
     width: 150px;
@@ -33,4 +33,14 @@ footer{
 #banner{
     width: 100vw;
     height: 100vh;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+main{
+       background-color: #e6d8c5;
 }
