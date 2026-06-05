@@ -96,7 +96,7 @@ button:hover{
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  padding: 5.5% 5.5%;
+  padding: 4.5% 0;
 }
 
 p{
@@ -135,10 +135,32 @@ main {
     margin-right: auto;
 }
 
+.certification-photo{
+    width: 30%;
+}
+
+.certification{
+  display: flex; 
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  padding: 1rem;
+  max-width: 1200px;    
+  margin: 0 auto;
+}
+
 .block-p{
     font-size: 1.5rem;
     max-width: 500px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+a{
+  color: #868f63;
+}
+
+a:hover{
+  color:#354024
 }
